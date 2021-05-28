@@ -1,7 +1,7 @@
 #公告设置
 [app]
     explain         = "扫码后请返回页面完成登录!" #页面使用说明显示
-    path            = "QL/config/auth.json" #QL文件路径设置，一般无需更改
+    path            = "ql/config/auth.json" #QL文件路径设置，一般无需更改
     QLip            = "http://127.0.0.1" #青龙面板的ip，部署于一台服务器时不用更改
     QLport          = "5700" #青龙面板的端口，默认为5700
     logName         = "chinnkarahoi_jd_scripts_jd_bean_change" #日志脚本名称
